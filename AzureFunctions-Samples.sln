@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenesysApiFunctionApp", "OAuth Client Crenedtials\GenesysApiFunctionApp.csproj", "{ABF9D558-3BB3-4EAF-96B8-D664A45510F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genesys.Azure.Token.Sample", "Genesys.Azure.Token.Sample\Genesys.Azure.Token.Sample.csproj", "{84D4604E-FB60-4A2A-A275-21B16F8F0B61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABF9D558-3BB3-4EAF-96B8-D664A45510F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF9D558-3BB3-4EAF-96B8-D664A45510F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF9D558-3BB3-4EAF-96B8-D664A45510F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF9D558-3BB3-4EAF-96B8-D664A45510F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84D4604E-FB60-4A2A-A275-21B16F8F0B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D4604E-FB60-4A2A-A275-21B16F8F0B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D4604E-FB60-4A2A-A275-21B16F8F0B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D4604E-FB60-4A2A-A275-21B16F8F0B61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEDB7784-0E92-41A3-A785-14C2BBB31663}
+	EndGlobalSection
+EndGlobal
